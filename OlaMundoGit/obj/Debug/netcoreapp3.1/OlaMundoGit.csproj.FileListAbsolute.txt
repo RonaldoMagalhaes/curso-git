@@ -10,3 +10,4 @@ C:\Users\MASTER\Desktop\C# Nélio Alves\ws-2019\OlaMundoGit\OlaMundoGit\obj\Debu
 C:\Users\MASTER\Desktop\C# Nélio Alves\ws-2019\OlaMundoGit\OlaMundoGit\obj\Debug\netcoreapp3.1\OlaMundoGit.dll
 C:\Users\MASTER\Desktop\C# Nélio Alves\ws-2019\OlaMundoGit\OlaMundoGit\obj\Debug\netcoreapp3.1\OlaMundoGit.pdb
 C:\Users\MASTER\Desktop\C# Nélio Alves\ws-2019\OlaMundoGit\OlaMundoGit\obj\Debug\netcoreapp3.1\OlaMundoGit.genruntimeconfig.cache
+C:\Users\MASTER\Desktop\C# Nélio Alves\ws-2019\OlaMundoGit\OlaMundoGit\obj\Debug\netcoreapp3.1\OlaMundoGit.csprojAssemblyReference.cache
